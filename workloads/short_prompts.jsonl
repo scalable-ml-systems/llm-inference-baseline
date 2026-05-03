@@ -1,0 +1,3 @@
+{"id":"short-001","prompt":"Explain Kubernetes readiness probes in one paragraph.","max_tokens":128}
+{"id":"short-002","prompt":"Summarize why GPU memory matters for LLM serving.","max_tokens":128}
+{"id":"short-003","prompt":"Explain TTFT in simple terms.","max_tokens":128}

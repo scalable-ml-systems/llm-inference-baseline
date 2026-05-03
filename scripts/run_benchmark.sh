@@ -1,0 +1,6 @@
+- read prompts
+- send requests
+- record start time
+- record first token time if streaming is enabled
+- record end time
+- write raw JSON results
