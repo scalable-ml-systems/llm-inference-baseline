@@ -284,5 +284,8 @@ llm-serving-characterization/
 
 Results will be published in `experiment-reports/`.
 
+## Status
+Build 1: In progress  
+Build 1.5 (LLM-d): Planned  
 
 
