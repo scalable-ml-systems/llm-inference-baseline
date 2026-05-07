@@ -1,0 +1,17 @@
+{
+  "requests": 5,
+  "successes": 5,
+  "ttft_p50_s": 0.0036497150003924617,
+  "ttft_p95_s": 0.004381381199891621,
+  "itl_p50_s": 0.003152325290307823,
+  "itl_p95_s": 0.005283899399998312,
+  "e2e_p50_s": 0.10110070500013535,
+  "e2e_p95_s": 0.16817317400000317,
+  "tokens_per_second_avg": 289.1072721741732,
+  "input_tokens_avg": 12.2,
+  "output_tokens_avg": 32,
+  "rss_after_mb_max": 374.58203125,
+  "model": "sshleifer/tiny-gpt2",
+  "workload": "workloads/short_prompts.jsonl",
+  "max_new_tokens_cap": 32
+}

@@ -1,5 +1,5 @@
-{"id":"short-001","prompt":"Explain Kubernetes readiness probes in one paragraph.","max_tokens":128}
-{"id":"short-002","prompt":"Explain TTFT in LLM serving in simple terms.","max_tokens":128}
-{"id":"short-003","prompt":"Summarize why GPU memory matters for LLM inference.","max_tokens":128}
-{"id":"short-004","prompt":"Explain why throughput alone is not enough to evaluate an LLM server.","max_tokens":128}
-{"id":"short-005","prompt":"Explain what KV cache does during inference.","max_tokens":128}
+{"id":"short-001","prompt":"Explain Kubernetes readiness probes in one paragraph.","max_tokens":32}
+{"id":"short-002","prompt":"Explain TTFT in LLM serving in simple terms.","max_tokens":32}
+{"id":"short-003","prompt":"Summarize why GPU memory matters for LLM inference.","max_tokens":32}
+{"id":"short-004","prompt":"Explain why throughput alone is not enough to evaluate an LLM server.","max_tokens":32}
+{"id":"short-005","prompt":"Explain what KV cache does during inference.","max_tokens":32}
