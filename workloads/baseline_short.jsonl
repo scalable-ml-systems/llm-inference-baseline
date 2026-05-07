@@ -1,0 +1,5 @@
+{"id":"baseline-001","messages":[{"role":"user","content":"Explain TTFT in LLM serving in simple terms."}],"max_tokens":64}
+{"id":"baseline-002","messages":[{"role":"user","content":"Explain why throughput alone is not enough to evaluate an LLM server."}],"max_tokens":64}
+{"id":"baseline-003","messages":[{"role":"user","content":"Explain what KV cache does during LLM inference."}],"max_tokens":64}
+{"id":"baseline-004","messages":[{"role":"user","content":"Summarize why GPU memory matters for LLM serving."}],"max_tokens":64}
+{"id":"baseline-005","messages":[{"role":"user","content":"Explain the difference between prefill and decode in LLM inference."}],"max_tokens":64}

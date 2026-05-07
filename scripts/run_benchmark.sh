@@ -1,6 +1,11 @@
-- read prompts
-- send requests
-- record start time
-- record first token time if streaming is enabled
-- record end time
-- write raw JSON results
+#!/usr/bin/env bash
+set -euo pipefail
+
+BASE_URL="${BASE_URL:-http://localhost:8000/v1}"
+MODEL="${MODEL:-baseline-model}"
+WORKLOAD="${WORKLOAD:-workloads/baseline_short.jsonl}"
+
+python scripts/run_benchmark.py \
+  --base-url "${BASE_URL}" \
+  --model "${MODEL}" \
+  --workload "${WORKLOAD}"
